@@ -1,6 +1,6 @@
 spring:
   jpa:
-     hibernate.ddl-auto: create-drop
+     hibernate.ddl-auto: create
      show-sql: true
   datasource:
     url : jdbc:mysql://localhost/restBucks
