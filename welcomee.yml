@@ -1,0 +1,13 @@
+spring:
+  jpa:
+     hibernate.ddl-auto: create-drop
+     show-sql: true
+  datasource:
+    url : jdbc:mysql://localhost/restBucks
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password: Vasu@123
+server:
+ port: 8080
+    
+    
