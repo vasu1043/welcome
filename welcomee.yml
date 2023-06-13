@@ -3,7 +3,7 @@ spring:
      hibernate.ddl-auto: create
      show-sql: true
   datasource:
-    url : jdbc:mysql://localhost/restBucks
+    url : jdbc:mysql://localhost:3306/Git
     driverClassName: com.mysql.jdbc.Driver
     username: root
     password: Vasu@123
